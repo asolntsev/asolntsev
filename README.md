@@ -13,7 +13,3 @@ My favorite topics include:
 * conferences
 
 [![asolntsev's GitHub | Stats](https://stats.quine.sh/asolntsev/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=asolntsev)
-
-[![asolntsev's GitHub | Topics Over Time](https://stats.quine.sh/asolntsev/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=asolntsev)
-
-[![asolntsev's GitHub | Languages Over Time](https://stats.quine.sh/asolntsev/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=asolntsev)
